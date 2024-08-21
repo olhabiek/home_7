@@ -1,0 +1,13 @@
+.switcherBtn {
+  background-color: rgb(196, 193, 193);
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgb(79, 78, 78);
+  cursor: pointer;
+}
+
+.switcherBtn:active {
+  transform: translateY(3px);
+}
